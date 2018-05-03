@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressingBar">
+        <attr name="bottomBarColor" format="color"/>
+        <attr name="topBarColor" format="color"/>
+        <attr name="percentageSize" format="dimension"/>
+        <attr name="percentageColor" format="color"/>
+    </declare-styleable>
+</resources>
