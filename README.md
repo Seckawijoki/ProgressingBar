@@ -18,7 +18,7 @@ allprojects{
 ###### 2.添加依赖
 dependencies {
 
-  implementation 'com.github.Seckawijoki:ProgressingBar:1.0'
+    implementation 'com.github.Seckawijoki:ProgressingBar:1.0'
   
 }
   
